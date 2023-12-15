@@ -5,13 +5,17 @@ var num= listOf(1,2,3,4,5)
     for ((i,e) in num.withIndex()){ //here (i,e) works as two iterator...one is for index(builtin) and another is for acces of list
         println("$i : $e")
     }
+    //or
+    for (i in 0 until num.size){//same
+        println("$i :"+num[i])
+    }
     //list is immutable
     println(num[3])
     //array is mutable
     println("Enter the size of array")
     var s:Int?= readln().toInt()
     var arr=IntArray(s!!)
-    for (i in 0 until s!!){
+    for (i in 0 until s!!){//(i=0,i<=s,i++)
         println("Enter element")
         arr[i]= readln().toInt()
     }
