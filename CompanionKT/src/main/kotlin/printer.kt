@@ -1,0 +1,3 @@
+interface printer {
+    fun prn()
+}

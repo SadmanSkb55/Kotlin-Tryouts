@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbsIntKT/AbsIntKT.iml" filepath="$PROJECT_DIR$/AbsIntKT/AbsIntKT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorKT/ConstructorKT.iml" filepath="$PROJECT_DIR$/ConstructorKT/ConstructorKT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionKT/ExceptionKT.iml" filepath="$PROJECT_DIR$/ExceptionKT/ExceptionKT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunKT/FunKT.iml" filepath="$PROJECT_DIR$/FunKT/FunKT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerCKT/InnerCKT.iml" filepath="$PROJECT_DIR$/InnerCKT/InnerCKT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KTCO/KTCO.iml" filepath="$PROJECT_DIR$/KTCO/KTCO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KTIO/KTIO.iml" filepath="$PROJECT_DIR$/KTIO/KTIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kotlin-Tryouts.iml" filepath="$PROJECT_DIR$/.idea/Kotlin-Tryouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LMAKT/LMAKT.iml" filepath="$PROJECT_DIR$/LMAKT/LMAKT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionKT/RecursionKT.iml" filepath="$PROJECT_DIR$/RecursionKT/RecursionKT.iml" />
+    </modules>
+  </component>
+</project>
